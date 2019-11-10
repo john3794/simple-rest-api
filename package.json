@@ -1,0 +1,20 @@
+{
+    "name": "sport-webshop-api",
+    "version": "1.1.1",
+    "description": "Restful API for managing sport web shop products",
+    "private": true,
+    "license": "joly",
+    "author": "Johnny Ly",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/john3794/sport-webshop-api.git"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.0",
+        "mongodb": "^3.2.5"
+    }
+}
